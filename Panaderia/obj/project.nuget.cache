@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UHK5OIkcUyE=",
+  "dgSpecHash": "K9KnM+JQN8U=",
   "success": true,
   "projectFilePath": "C:\\Users\\UCSE\\Prog1-Practica-Panaderia-Pettinati\\Panaderia\\Panaderia.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\UCSE\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
