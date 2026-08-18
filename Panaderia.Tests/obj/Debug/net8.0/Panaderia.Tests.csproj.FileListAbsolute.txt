@@ -98,3 +98,6 @@ C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia.Tests\obj\Debug\net8.
 C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia.Tests\obj\Debug\net8.0\Panaderia.Tests.pdb
 C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia.Tests\obj\Debug\net8.0\Panaderia.Tests.genruntimeconfig.cache
 C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia.Tests\obj\Debug\net8.0\ref\Panaderia.Tests.dll
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Panaderia.Tests
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia.Tests\bin\Debug\net8.0\Panaderia.dll
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia.Tests\bin\Debug\net8.0\Panaderia.pdb

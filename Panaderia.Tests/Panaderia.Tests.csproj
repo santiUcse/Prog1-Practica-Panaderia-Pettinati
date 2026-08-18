@@ -21,4 +21,8 @@
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Panaderia\Panaderia.csproj" />
+  </ItemGroup>
+
 </Project>
