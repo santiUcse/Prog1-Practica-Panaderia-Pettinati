@@ -1,0 +1,12 @@
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\bin\Debug\net8.0\Panaderia.deps.json
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\bin\Debug\net8.0\Panaderia.dll
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\bin\Debug\net8.0\Panaderia.pdb
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\obj\Debug\net8.0\Panaderia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\obj\Debug\net8.0\Panaderia.AssemblyInfoInputs.cache
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\obj\Debug\net8.0\Panaderia.AssemblyInfo.cs
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\obj\Debug\net8.0\Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\obj\Debug\net8.0\Panaderia.sourcelink.json
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\obj\Debug\net8.0\Panaderia.dll
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\obj\Debug\net8.0\refint\Panaderia.dll
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\obj\Debug\net8.0\Panaderia.pdb
+C:\Users\UCSE\Prog1-Practica-Panaderia-Pettinati\Panaderia\obj\Debug\net8.0\ref\Panaderia.dll
